@@ -1,0 +1,7 @@
+main: me.TypicalBruhh.Doctor.Main
+name: Doctor
+version: 1.0
+author: TypicalBruhh
+
+commands:
+  doctor: 
